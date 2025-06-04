@@ -1,9 +1,8 @@
 package ru.onlineshop;
 
-import ru.onlineshop.order.OrderItem;
-import ru.onlineshop.products.Coffee;
-import ru.onlineshop.products.Product;
-import ru.onlineshop.products.Tea;
+import ru.onlineshop.shop.Coffee;
+import ru.onlineshop.shop.Product;
+import ru.onlineshop.shop.Tea;
 
 public class Main
 {

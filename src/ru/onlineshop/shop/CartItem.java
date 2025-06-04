@@ -1,6 +1,4 @@
-package ru.onlineshop.cart;
-
-import ru.onlineshop.products.Product;
+package ru.onlineshop.shop;
 
 public class CartItem
 {

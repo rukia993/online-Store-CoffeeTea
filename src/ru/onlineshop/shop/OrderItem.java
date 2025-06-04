@@ -1,6 +1,4 @@
-package ru.onlineshop.order;
-
-import ru.onlineshop.products.Product;
+package ru.onlineshop.shop;
 
 public class OrderItem
 {

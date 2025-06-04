@@ -1,6 +1,4 @@
-package ru.onlineshop.order;
-
-import ru.onlineshop.buyer.BuyerData;
+package ru.onlineshop.shop;
 
 import java.util.ArrayList;
 import java.util.List;

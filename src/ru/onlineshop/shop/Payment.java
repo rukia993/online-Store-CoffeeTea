@@ -1,6 +1,4 @@
-package ru.onlineshop.payment;
-
-import ru.onlineshop.order.Order;
+package ru.onlineshop.shop;
 
 public class Payment
 {

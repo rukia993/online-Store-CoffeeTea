@@ -1,4 +1,4 @@
-package ru.onlineshop.buyer;
+package ru.onlineshop.shop;
 
 public class BuyerData
 {

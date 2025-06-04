@@ -1,4 +1,4 @@
-package ru.onlineshop.products;
+package ru.onlineshop.shop;
 
 public class Coffee extends Product
 {
